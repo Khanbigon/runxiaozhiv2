@@ -1,0 +1,10 @@
+langchain-community==0.0.17
+langchain==0.1.5
+sentence-transformers==2.2.2
+pandas==2.1.4
+openpyxl==3.1.2
+python-dotenv==1.0.0
+chromadb==0.4.22
+streamlit==1.30.0
+numpy==1.26.3
+requests==2.31.0
